@@ -1,6 +1,2 @@
-# agora
+# Dodona
 New Decentralized Governance Model Aergo Agora
-
-* Argus
-* Dodona
-* Agora
