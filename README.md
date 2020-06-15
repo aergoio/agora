@@ -22,5 +22,5 @@ To ensure we can implement this new model gradually and successfully, the Aergo 
 # Status Terms
 * **Draft** - an AIP that is undergoing rapid iteration and changes.
 * **Accepted** - If such a decision is made from Aergo council, the EIP will move to Approved.
-* **Approved** - An Aergo council have decided to implement and release.
+* **Approved** - An Aergo Foundation have decided to implement and release.
 
