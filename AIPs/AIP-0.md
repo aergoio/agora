@@ -2,7 +2,7 @@
 AIP: 0
 Title: Aergo Agora - Aergo Governance Network
 Author: Hochul Seok (@ultrafellen)
-Status: Draft
+Status: Stage II
 Category: Agora
 Created: 2020-07-15
 ---
