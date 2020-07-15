@@ -1,5 +1,5 @@
 ---
-AIP: N/A
+AIP: 0
 Title: N/A
 Author: Hochul Seok (@ultrafellen)
 Status: Draft
