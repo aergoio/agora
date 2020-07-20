@@ -12,7 +12,7 @@ Created: 2020-07-20
 ## For developers, for investors
 Due to be launched AERGO based services, we need to enhace our website.
 - Easy access to developer tools
-- AERGO status at a glance (dashboard
+- AERGO status at a glance (dashboard)
 
 ## Website 2.0 Navigator
 Home
