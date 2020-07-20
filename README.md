@@ -6,8 +6,12 @@ AIP stands for Aergo Improvement Proposal. All AIPs must be consistent with the 
 * **Dodona** - For proposed changes to: Aergo Ecosystem and marketing related matters
 * **Agora** -For proposed changes to: Aergo Agora portal operation and policy related matters
 
-There are [template AIP here](/template).
+# Contribute
 
+1. Review this [README.md](README.md) and [AIP-1](AIPs/AIP-0.md)
+2. Fork the repository by clicking "Fork" in the top right.
+3. Add your AIP to your fork of the repository. There are [template AIP here](/template).
+4. Submit a Pull Request to Aergo Agora repository.
 
 # AIP Process and workflow 
 The AIP process is a structured process for making changes to the Aergo Network. There are four parties involved in this process. 
