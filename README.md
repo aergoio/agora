@@ -6,6 +6,8 @@ AIP stands for Aergo Improvement Proposal. All AIPs must be consistent with the 
 * **Dodona** - For proposed changes to: Aergo Ecosystem and marketing related matters
 * **Agora** -For proposed changes to: Aergo Agora portal operation and policy related matters
 
+There are [template AIP here](/template).
+
 
 # AIP Process and workflow 
 The AIP process is a structured process for making changes to the Aergo Network. There are four parties involved in this process. 
