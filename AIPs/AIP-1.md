@@ -2,7 +2,7 @@
 AIP: 1
 Title: AERGO Website Renewal
 Author: Jiwon Choi (@blocko-jei)
-Status: Stage I
+Status: Stage II
 Category: dodona
 Created: 2020-07-20
 ---
