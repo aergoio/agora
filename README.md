@@ -8,7 +8,7 @@ AIP stands for Aergo Improvement Proposal. All AIPs must be consistent with the 
 
 # Contribute
 
-1. Review this [README.md](README.md) and [AIP-1](AIPs/AIP-0.md)
+1. Review this [README.md](README.md) and [AIP-0](AIPs/AIP-0.md)
 2. Fork the repository by clicking "Fork" in the top right.
 3. Add your AIP to your fork of the repository. There are [template AIP here](/template).
 4. Submit a Pull Request to Aergo Agora repository.
