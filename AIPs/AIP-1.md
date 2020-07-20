@@ -1,5 +1,5 @@
 ---
-AIP: N/A
+AIP: 1
 Title: AERGO Website Renewal
 Author: Jiwon Choi (@blocko-jei)
 Status: Stage I
