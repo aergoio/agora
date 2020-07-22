@@ -1,6 +1,6 @@
 # What is an AIP?
 
-AIP stands for Aergo Improvement Proposal. All AIPs must be consistent with the goals of Agora (AIP-0). Currently there are three areas where AIP Authors can choose and suggest to make changes.
+AIP stands for Aergo Improvement Proposal. All AIPs must be consistent with the goals of Agora ([AIP-0](AIPs/AIP-0.md)). Currently there are three areas where AIP Authors can choose and suggest to make changes.
 
 * **Argus** - For proposed changes to: Aergo tech development related matters
 * **Dodona** - For proposed changes to: Aergo Ecosystem and marketing related matters
@@ -26,7 +26,7 @@ All AIP Authors who submit the proposal have to follow the template guidelines a
 * Stage I: Select AIP Track and submit a draft proposal
 * Stage II: AIP editor review  
 * Stage III: Agora Steering Committee review
-* Stage IV: Aergo Community Vote 
+* Stage IV: Aergo Community Vote ([Aergo Agora (Offical Voting)](https://voting.aergo.io))
 
 # Status Terms
 
