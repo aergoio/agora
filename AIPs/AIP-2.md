@@ -22,7 +22,7 @@ Unlike existing BaaS(Blockchian as a Service), it provides functions as Applicat
 - Marketplace for App
 
 ### Roadmap
-![](https://github.com/aergoio/agora/tree/master/AIPs/resources/AIP-2-1.png)
+![](https://github.com/aergoio/agora/blob/proposal/AIPs/resources/roadmap.png)
 
 ## Decentralized Trusted Timestamping
 
