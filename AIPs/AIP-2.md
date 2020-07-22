@@ -2,7 +2,7 @@
 AIP: 2
 Title: AERGO 2020 Q3, Q4 Development Roadmap
 Author: Hunyoung Park (@ashen1dev)
-Status: Stage I
+Status: Stage II
 Category: argus
 Created: 2020-07-22
 ---
@@ -22,7 +22,7 @@ Unlike existing BaaS(Blockchian as a Service), it provides functions as Applicat
 - Marketplace for App
 
 ### Roadmap
-![](https://github.com/aergoio/agora/blob/proposal/AIPs/resources/roadmap.png)
+![](/AIPs/resources/roadmap.png)
 
 ## Decentralized Trusted Timestamping
 
