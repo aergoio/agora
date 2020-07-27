@@ -2,7 +2,7 @@
 AIP: 2
 Title: AERGO 2020 Q3, Q4 Development Roadmap
 Author: Hunyoung Park (@ashen1dev)
-Status: Stage III
+Status: Final
 Category: argus
 Created: 2020-07-22
 ---
