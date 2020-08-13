@@ -2,7 +2,7 @@
 AIP: 3
 Title: AERGO Swap Service Fee Mechanism Update
 Author: Hunyoung Park (@ashen1dev)
-Status: Stage I
+Status: Stage III
 Category: argus
 Created: 2020-08-13
 ---
