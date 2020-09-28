@@ -1,6 +1,6 @@
 # What is an AIP?
 
-AIP stands for Aergo Improvement Proposal. All AIPs must be consistent with the goals of Agora (AIP-0). Currently there are three areas where AIP Authors can choose and suggest to make changes.
+AIP stands for Aergo Improvement Proposal. All AIPs must be consistent with the goals of Agora ([AIP-0](AIPs/AIP-0.md)). Currently there are three areas where AIP Authors can choose and suggest to make changes.
 
 * **Argus** - For proposed changes to: Aergo tech development related matters
 * **Dodona** - For proposed changes to: Aergo Ecosystem and marketing related matters
@@ -16,8 +16,8 @@ AIP stands for Aergo Improvement Proposal. All AIPs must be consistent with the 
 # AIP Process and workflow 
 The AIP process is a structured process for making changes to the Aergo Network. There are four parties involved in this process. 
 
-* AIP Author 
-* AIP Editor 
+* Author 
+* Editor 
 * Agora Steering Committee 
 * Aergo Voters 
 
@@ -26,14 +26,14 @@ All AIP Authors who submit the proposal have to follow the template guidelines a
 * Stage I: Select AIP Track and submit a draft proposal
 * Stage II: AIP editor review  
 * Stage III: Agora Steering Committee review
-* Stage IV: Aergo Community Vote 
+* Stage IV: Aergo Community Vote ([Aergo Agora (Offical Voting)](https://voting.aergo.io))
 
 # Status Terms
 
 * **Draft** - an AIP that is undergoing rapid iteration and changes.
 * **Accepted** - If such a decision is made from Aergo council, the AIP will move to Approved.
 * **Approved** - An Aergo Foundation have decided to implement and release.
-* **Rejected** - Voting results are rejected.
+* **Rejected** - Voting result is rejected.
 
 # Aergo Voting day 
 There will be four Aergo voting days annually. The Aergo Voting will take place once a quarter on designated days as follows, starting at 8:00 UTC, lasting for 48 hours:
@@ -50,10 +50,16 @@ AIP Authors should submit proposals by the 1st of the preceding month of the Aer
 The committee can call an emergency Aergo network vote or re-schedule a vote at any time by a unanimous approval vote of the steering committee. In case of emergency, immediately following approval by the board, the Committee will make a best effort notification to AERGO holders of the start date and time of the vote using these communication channels:
 
 * The Emergency vote folder 
-* The official #announcements channel in telegram 
-* The official Aergo @aergo_io twitter account
+* The official [#announcements](https://t.me/aergoofficial) channel in telegram 
+* The official Aergo [@aergo_io](https://twitter.com/aergo_io) twitter account
 
 # Vote counting 
 The minimum support required for approval is >50% of all votes cast, an “absolute majority”. 
 
 If the result is a split vote, the Agora Steering Committee will reschedule a vote. The new start date of the vote must be no more than 30 days later than the previous start date of the vote (a maximum of two voting rounds, regardless of split vote(s)).
+
+# Voting
+* [Install Aergo Connect from the Chrome web store](https://chrome.google.com/webstore/detail/aergo-connect/iopigoikekfcpcapjlkcdlokheickhpc)
+* Create an account at Aergo Connect
+* Deposit Aergo Native coin (ERC20 -> Aergo Native swap is [here](https://swap.aergo.io/))
+* [Staking and voting System Voting and Governance Voting](https://voting.aergo.io)
