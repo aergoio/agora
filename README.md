@@ -49,7 +49,7 @@ AIP Authors should submit proposals by the 1st of the preceding month of the Aer
 
 The committee can call an emergency Aergo network vote or re-schedule a vote at any time by a unanimous approval vote of the steering committee. In case of emergency, immediately following approval by the board, the Committee will make a best effort notification to AERGO holders of the start date and time of the vote using these communication channels:
 
-* The Emergency vote folder 
+* The [AIPs](AIPs/) folder
 * The official [#announcements](https://t.me/aergoofficial) channel in telegram 
 * The official Aergo [@aergo_io](https://twitter.com/aergo_io) twitter account
 
