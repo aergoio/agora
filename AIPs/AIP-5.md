@@ -2,7 +2,7 @@
 AIP: 5
 Title: KuCoin guidance compliance decision
 Author: Hochul Seok (@ultrafellen)
-Status: Stage I
+Status: 
 Category: agora
 Created: 2020-10-03
 ---
