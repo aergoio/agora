@@ -9,9 +9,7 @@ Created: 2020-10-29
 
 # AERGO Staking Reward (Second)
 
-It's been almost a year since the Argo Staging Service was launched. We appreicate the community has contributed the network by staking and voting.
-
-Now we will continue to hare the reward.
+It's been almost a year since the Argo Staging Service was launched. We appreicate the community has contributed the network by staking and voting. Now we will continue to hare the reward.
 
 ## Deposit second staking reward
 
