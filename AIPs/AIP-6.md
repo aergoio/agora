@@ -2,7 +2,7 @@
 AIP: 6
 Title: AERGO Staking Reward (Second)
 Author: Hunyoung Park (@ashen1dev)
-Status: Stage III
+Status: Final
 Category: argus
 Created: 2020-10-29
 ---

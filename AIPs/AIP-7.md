@@ -2,7 +2,7 @@
 AIP: 7
 Title: AERGO join DTT Alliance
 Author: Jiwon Choi (@blocko-jei)
-Status: Stage III
+Status: Final
 Category: dodona
 Created: 2020-10-30
 ---
