@@ -2,7 +2,7 @@
 AIP: 4
 Title: Migration of AERGO tokens to a new smart contract
 Author: Hochul Seok (@ultrafellen)
-Status: Stage I
+Status: Final
 Category: agora
 Created: 2020-09-28
 ---

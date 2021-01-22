@@ -31,7 +31,7 @@ We would like to develop a technology element of Decentralized Trusted Timestamp
 ### What to do
 
 - DTT Backend : Service for Trusted Timestamping working by Smart Contracts
-- DTT universal resolver : Universal Resolver for Multiple Blockchain Infrasturture
+- DTT universal resolver : Universal Resolver for Multiple Blockchain Infrastructure
 - DTT SDK : SDK for verifying and signing documents
 
 ## License
