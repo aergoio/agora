@@ -1,6 +1,6 @@
 ---
 AIP: 8
-Title: "CCCV.to" to receive the Dapp Incubation Fund from AERGO
+Title: 'CCCV.to' to receive the Dapp Incubation Fund from AERGO
 Author: Hochul Seok (@ultrafellen)
 Status: Draft
 Category: dodona
