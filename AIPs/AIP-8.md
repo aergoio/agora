@@ -29,7 +29,7 @@ Budget : 2,000,000 AERGO
 
 This development funding is paid four times a year, and the detailed payment schedule is as follows.
 
-* Q1 : 2021-01-30
-* Q2 : 2021-04-30
-* Q3 : 2021-07-30
-* Q4 : 2021-10-30
+* Q1 : 2021-01-30 (500,000 AERGO)
+* Q2 : 2021-04-30 (500,000 AERGO)
+* Q3 : 2021-07-30 (500,000 AERGO)
+* Q4 : 2021-10-30 (500,000 AERGO)
