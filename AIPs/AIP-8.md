@@ -2,7 +2,7 @@
 AIP: 8
 Title: 'CCCV.to' to receive the Dapp Incubation Fund from AERGO
 Author: Hochul Seok (@ultrafellen)
-Status: Draft
+Status: Stage II
 Category: dodona
 Created: 2021-01-26
 ---
