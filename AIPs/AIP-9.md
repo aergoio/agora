@@ -30,6 +30,12 @@ While the copyrights can be fickle by a contract between uploader and downloader
 Accordingly, users can request and/or claim their rights to the downloaders when they find each violated cases.
 
 
+## Proposal
+[BananaClips](https://bananaclipse.net) proposes using AERGO as the blockchain mentioned above.
+
+The [BananaClips](https://bananaclipse.net) service will generate and transmit transactions for the digital watermarks from uploaded short videos on the service and the digitally fingerprinted contracts between buyers and sellers of the service on the AERGO mainnet.
+
+
 ## License
 Copyright and related rights waived via [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
