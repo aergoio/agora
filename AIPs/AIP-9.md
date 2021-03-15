@@ -22,6 +22,8 @@ A background system of [Banana Clips](https://bananaclips.net) generates a copyr
 
 Therefore, all buyers will download this watermarked short clip after purchasing. And the uploader can request and/or detect whether a used short clip violates the uploader's copyrights anytime and anywhere through the blockchain.
 
+[Banana Clips](https://bananaclips.net) will use the AERGO mainnet as the blockchain mentioned above to designate the copyright of a video representatively.
+
 ### Digital Video Fingerprint
 While the copyrights can be fickle by a contract between uploader and downloader, the inherited contract from the copyrights should be protected by a credible 3rd-party or system. This credible party can be replaced by the blockchain due to the reliability of the blockchain as one of the core feature.
 
@@ -29,13 +31,24 @@ While the copyrights can be fickle by a contract between uploader and downloader
 
 Accordingly, users can request and/or claim their rights to the downloaders when they find each violated cases.
 
+All contracts between buyers and sellers in [Banana Clips](https://bananaclips.net) will be based on the AERGO mainnet to authorize and veify each contract.
+
+### Non-fungible Tokens (NFTs)
+Non-fungible tokens are used to represent the value of unique and collectable assets using a smart contract protocol on a blockchain network. And also, the value of this token denotes the uniqueness and ownership of the creator verified on the blockchain.
+
+[Banana Clips](https://bananaclips.net) mints this non-fungible token to represent the ownership of the uploader likewise. The NFT and the digital watermark above for a short clip by [Banana Clips](https://bananaclips.net) using AERGO will be the perfect solution to protect proprietary rights and copyrights.
+
+### Re-fungible Tokens (RFTs)
+Re-fungible token is a dividable and inheritable token for the non-fungible token. The owner of the non-fungible token can create the re-fungible tokens and divide them with other players for next businesses such as re-sell, edit, broadcast, etc.
+
+[Banana Clips](https://bananaclips.net) creates these re-fungible tokens for seller and buyer as a contract after locking the non-fungible token of the short clip. These re-fungible tokens and the digital fingerprint above will protect the sacred contract between buyers and sellers through AERGO.
 
 ## Proposal
-[Banana Clips](https://bananaclipse.net) proposes using AERGO as the blockchain mentioned above.
+[Banana Clips](https://bananaclips.net) proposes using AERGO as the blockchain mentioned above.
 
-The [Banana Clips](https://bananaclipse.net) service will generate and transmit transactions for the digital watermarks from uploaded short videos on the service and the digitally fingerprinted contracts between buyers and sellers of the service on the AERGO mainnet.
+The [Banana Clips](https://bananaclips.net) service will generate and transmit transactions for the digital watermarks from uploaded short videos on the service and the digitally fingerprinted contracts between buyers and sellers of the service on the AERGO mainnet. The uploaded short videos will have their own non-fungible tokens to represent ownership and copyrights, and all contracts will have re-fungible tokens to denote the core context of each contract.
 
-One final step ... We hope to contribute to AERGO's NTF protocol through the [Banana Clips](https://bananaclips.net) marketplace transparent and opened for all users can use.
+One final step ... We hope to contribute for the growth of AERGO's ecosystem through the [Banana Clips](https://bananaclips.net) marketplace transparent and opened for all users can use.
 
 ## License
 Copyright and related rights waived via [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/).
