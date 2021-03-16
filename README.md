@@ -23,7 +23,7 @@ The AIP process is a structured process for making changes to the Aergo Network.
 
 All AIP Authors who submit the proposal have to follow the template guidelines and follow each step of the workflow outlined in this document. The following is the process that a successful AIP moves along: 
 
-* Stage I: Select AIP Track and submit a draft proposal
+* Stage I: Select AIP Track and submit a draft proposal in drafts folder
 * Stage II: AIP editor review  
 * Stage III: Agora Steering Committee review
 * Stage IV: Aergo Community Vote ([Aergo Agora (Offical Voting)](https://voting.aergo.io))
