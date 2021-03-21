@@ -50,6 +50,12 @@ The [Banana Clips](https://bananaclips.net) service will generate and transmit t
 
 One final step ... We hope to contribute for the growth of AERGO's ecosystem through the [Banana Clips](https://bananaclips.net) marketplace transparent and opened for all users can use.
 
+## Funding Schedule and Budget
+
+Total Budget: 300,000 AERGO
+
+This incubation funding is paid out in three-month installments of the total budget.
+
 ## License
 Copyright and related rights waived via [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
