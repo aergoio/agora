@@ -56,6 +56,10 @@ Total Budget: 300,000 AERGO
 
 This incubation funding is paid out in three-month installments of the total budget.
 
+## About us ...
+
+Crispy Whales is a web service provider for an online marketplace, Banana Clips, to buy and sell short video clips. Banana Clips manages digital copyrights and the true value of the short video clips using AI system and blockchain technologies on AERGO.
+
 ## License
 Copyright and related rights waived via [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
