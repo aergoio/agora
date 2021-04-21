@@ -49,22 +49,15 @@ Mobile tickets with blockchain NFT(Non-Fungible Token) technology enable offline
 
 2021 Q2 : Pikkle service ver1.0 development
 
-
 2021 Q3 : Pikkle service ver1.0 service release and system linkage to media festival and each broadcaster.
 
-
 2021 Q4 : Pikkle service ver2.0 function development
-  
  - Development of payment system and linkage
 
-
 2022 Q1 : Pikkle service ver2.0 function development
-  
  - Development of Arc based ticket issuing system and linkage
 
-
 2022 Q2 : Pikkle service ver2.0 development and release
-  
  - Connection to Metaverse service
 
 
