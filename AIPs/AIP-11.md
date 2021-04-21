@@ -16,16 +16,14 @@ Pikkle is a voting and attendance check service based on the AERGO blockchain pl
 The current voting system is based on mobile SMS or public opinion polls, which has inherent problems.
 
 1. Costly vote
-
->> A.In general, voting requires a number of processes, such as setting the target of the voter, identification, voting, counting, and verification. Each voting process is not only complex, but also costly.
+- In general, voting requires a number of processes, such as setting the target of the voter, identification, voting, counting, and verification. Each voting process is not only complex, but also costly.
 
 2. Untrustworthy vote
-
->> A.The untransparent voting result problems have been raised for a long time. People think the vote is untrustworthy, from apartment residents' vote to the selection of the winners of broadcast programs and political vote.
+- The untransparent voting result problems have been raised for a long time. People think the vote is untrustworthy, from apartment residents' vote to the selection of the winners of broadcast programs and political vote.
    
->> B.Especially in collecting opinions and voting on social media and big tech platforms, data can easily be manipulated. And voting results can be affected directly or indirectly depending on the interests of the platform provider. 
+- Especially in collecting opinions and voting on social media and big tech platforms, data can easily be manipulated. And voting results can be affected directly or indirectly depending on the interests of the platform provider. 
 
-‘Pikkle’ is a service that solves the above problems with blockchain technology.
+'Pikkle' is a service that solves the above problems with blockchain technology.
 
 ## Introduction of the Service Main Functions 
 
@@ -57,17 +55,17 @@ Mobile tickets with blockchain NFT(Non-Fungible Token) technology enable offline
 
 2021 Q4 : Pikkle service ver2.0 function development
   
-> - Development of payment system and linkage
+ - Development of payment system and linkage
 
 
 2022 Q1 : Pikkle service ver2.0 function development
   
-> - Development of Arc based ticket issuing system and linkage
+ - Development of Arc based ticket issuing system and linkage
 
 
 2022 Q2 : Pikkle service ver2.0 development and release
   
-> - Connection to Metaverse service
+ - Connection to Metaverse service
 
 
 ## Funding Schedule and Budget
