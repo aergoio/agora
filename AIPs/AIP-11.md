@@ -2,8 +2,8 @@
 AIP : AIP-11
 Title : 'Pikkle', receiving Dapp Incubation Fund from AERGO
 Author : Allan KIM, Co-CEO of Blocko
-Status : Stage 1
-Category : dodona
+Status : Stage II
+Category : Argus
 Created : 2021-04-23
 ---
 
@@ -63,6 +63,6 @@ Mobile tickets with blockchain NFT(Non-Fungible Token) technology enable offline
 
 ## Funding Schedule and Budget
 
-Total Budget : 2,000,000 AERGO
+Total Budget : 1,800,000 AERGO
 
 This incubation funding is paid out in 6 month installments of the total budget.
