@@ -2,7 +2,7 @@
 AIP: 10
 Title: Draft directory in `agora` repository
 Author: Yun Park (@hanlsin)
-Status: Draft
+Status: Final
 Category: Agora
 Created: 2021-03-16
 ---

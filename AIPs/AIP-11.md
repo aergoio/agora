@@ -2,7 +2,7 @@
 AIP : AIP-11
 Title : 'Pikkle', receiving Dapp Incubation Fund from AERGO
 Author : Allan KIM, Co-CEO of Blocko
-Status : Stage II
+Status : Final
 Category : Argus
 Created : 2021-04-23
 ---

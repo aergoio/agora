@@ -2,7 +2,7 @@
 AIP: 9
 Title: 'CrispyWhales.com' to receive the Dapp Incubation Fund from AERGO
 Author: CTO of Crispy Whales, Aaron Park (@aaron-yw-park)
-Status: Stage I
+Status: Final
 Category: dodona
 Created: 2021-03-14
 ---
