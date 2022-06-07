@@ -7,6 +7,8 @@ Category : Dodona
 Created : 2022-06-07
 ---
 
+![](https://raw.githubusercontent.com/aergoio/agora/master/AIPs/resources/cccv-nft.svg)
+
 # CCCV-NFT Service Introduction
 
 CCCV is a social DID service based on the AERGO blockchain platform. Since last year, CCCV-NFT has been developed and operated by Blocko XYZ, Blocko’s D-App studio. NFT is an innovative technology that many creators, who aren’t familiar with crypto or blockchain, find it difficult to navigate. CCCV-NFT solved these problems with AERGO blockchain technology.
