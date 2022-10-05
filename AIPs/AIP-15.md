@@ -1,10 +1,10 @@
 ---
-AIP: 13
-Title: AERGO Staking Reward (Third)
+AIP: 15
+Title: AERGO Staking Reward (4th)
 Author: Hochul Seok (@ultrafellen)
-Status: Final
+Status: Stage II
 Category: argus
-Created: 2021-10-18
+Created: 2022-10-05
 ---
 
 # What is AERGO Staking Reward?
@@ -16,17 +16,17 @@ See the article below for more details,
 Aergo Network Voting Reward: 
 https://medium.com/aergo/aergo-network-voting-reward-28212d568fc9
 
-# AERGO Staking Reward (Third)
+# AERGO Staking Reward (4th)
 
-It has been two years since the launch of the Aergo staking service. We appreciate the community's contribution to the network through staking and voting. Now we will continue to receive rewards.
+It has been 3 years since the launch of the Aergo staking service. We appreciate the community's contribution to the network through staking and voting. Now we will continue to receive rewards.
 
 Also, This proposal is an extension of past staking rewards. Please see the link below for past proposals,
 
 AIP 6: https://github.com/aergoio/agora/blob/master/AIPs/AIP-6.md
 
-## Deposit third staking reward
+## Deposit 4th staking reward
 
-Deposits AERGO Token for Staking Rewards in Year 3 as previously announced.
+Deposits AERGO Token for Staking Rewards in Year 4 as previously announced.
 
 
 Deposit Amounts: 5,000,000 Aergo Tokens

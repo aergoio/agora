@@ -2,7 +2,7 @@
 AIP: 14
 Title: CCCV-NFT, Consignment of NFT marketing and exhibition agency work 2022
 Author : Allan KIM, Co-CEO of Blocko
-Status : Stage II
+Status : Final
 Category : Dodona
 Created : 2022-06-07
 ---
