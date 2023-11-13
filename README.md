@@ -60,7 +60,7 @@ The minimum support required for approval is >50% of all votes cast, an “absol
 If the result is a split vote, the Agora Steering Committee will reschedule a vote. The new start date of the vote must be no more than 30 days later than the previous start date of the vote (a maximum of two voting rounds, regardless of split vote(s)).
 
 # Voting
-* [Install Aergo Connect from the Chrome web store](https://chrome.google.com/webstore/detail/aergo-connect/iopigoikekfcpcapjlkcdlokheickhpc)
+* [Install Aergo Connect 3.0 from the Chrome web store](https://chrome.google.com/webstore/detail/aergo-connect-30/mcijhnoalllmbiehiebonblllpimlnle)
 * Create an account at Aergo Connect
 * Deposit Aergo Native coin (ERC20 -> Aergo Native swap is [here](https://swap.aergo.io/))
 * [Staking and voting System Voting and Governance Voting](https://voting.aergo.io)
