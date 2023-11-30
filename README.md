@@ -37,12 +37,12 @@ All AIP Authors who submit the proposal have to follow the template guidelines a
 * **Rejected** - Voting result is rejected.
 
 # Aergo Voting day 
-There will be four Aergo voting days annually. The Aergo Voting will take place once a quarter on designated days as follows, starting at 8:00 UTC, lasting for 48 hours:
+There will be four Aergo voting days annually. The Aergo Voting will take place once a quarter on designated days as follows, starting at 15:00 UTC, lasting for 48 hours:
 
-* Q1 - 1st March starting at 8:00 UTC closing at 3rd March at 8:00 UTC
-* Q2 - 1st June starting at 8:00 UTC closing at 3rd June at 8:00 UTC
-* Q3 - 1st September starting at 8:00 UTC closing at 3rd September at 8:00 UTC
-* Q4 - 1st December starting at 8:00 UTC closing at 3rd December at 8:00 UTC
+* Q1 - 1st March starting at 8:00 UTC closing at 3rd March at 15:00 UTC
+* Q2 - 1st June starting at 8:00 UTC closing at 3rd June at 15:00 UTC
+* Q3 - 1st September starting at 8:00 UTC closing at 3rd September at 15:00 UTC
+* Q4 - 1st December starting at 8:00 UTC closing at 3rd December at 15:00 UTC
 
 AIP Authors should submit proposals by the 1st of the preceding month of the Aergo voting day (e.g. 1st Feb for submission for March voting day). The proposals that have successfully passed Stage III will be announced on the 25th of the preceding month of the Aergo Voting day (e.g. 25th Feb for voting for March voting day). These proposals will appear on the Agora portal for the Aergo Community vote on the Voting day. 
 
