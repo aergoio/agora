@@ -1,5 +1,5 @@
 ---
-AIP: 15
+AIP: 17
 Title: AERGO Staking Reward (5th)
 Author: Hochul Seok (@ultrafellen)
 Status: Stage II
