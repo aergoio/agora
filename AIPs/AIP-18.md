@@ -1,10 +1,10 @@
 ---
-AIP: 17
-Title: AERGO Staking Reward (5th)
+AIP: 18
+Title: AERGO Staking Reward Re-vote (5th)
 Author: Hochul Seok (@ultrafellen)
-Status: Rejected
+Status: Stage II
 Category: argus
-Created: 2024-11-26
+Created: 2024-12-02
 ---
 
 # What is AERGO Staking Reward?
