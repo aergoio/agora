@@ -46,7 +46,7 @@ This proposal is open for a community vote to determine whether Aergo Protocol s
 
 
 To view a key summary of the proposal, please head over to Twitter.
-
+https://x.com/aergo_io/status/1902967947448246715
 
 
 
