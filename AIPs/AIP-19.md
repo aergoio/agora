@@ -2,7 +2,7 @@
 AIP: 19
 Title: Aergo Protocol - Protocol Expansion Vote
 Author: Hochul Seok (@ultrafellen)
-Status: Stage II
+Status: Approved
 Category: argus
 Created: 2025-03-21
 ---

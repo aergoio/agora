@@ -2,7 +2,7 @@
 AIP: 17
 Title: AERGO Staking Reward (5th)
 Author: Hochul Seok (@ultrafellen)
-Status: Rejected
+Status: Canceled
 Category: argus
 Created: 2024-11-26
 ---

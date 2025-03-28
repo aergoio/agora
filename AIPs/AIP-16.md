@@ -2,7 +2,7 @@
 AIP: 16
 Title: AERGO 10:1 merger with token swap from erc-20 to mainnet
 Author: mamico (@ipmask12)
-Status: Stage I
+Status: Rejected
 Category: dodona
 Created: 2023-11-10
 ---

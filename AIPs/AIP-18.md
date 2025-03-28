@@ -2,7 +2,7 @@
 AIP: 18
 Title: AERGO Staking Reward Re-vote (5th)
 Author: Hochul Seok (@ultrafellen)
-Status: Stage II
+Status: Final
 Category: argus
 Created: 2024-12-02
 ---
