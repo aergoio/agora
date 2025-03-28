@@ -11,15 +11,6 @@ Created: 2025-03-29
 
 As Aergo expands into an EVM-based Layer 2, the existing governance system—Aergo Agora—must evolve alongside it. This proposal outlines a plan to migrate Aergo’s community governance platform from Agora (on the Aergo mainnet) to Snapshot. Snapshot is a widely adopted, gasless voting platform that integrates seamlessly with EVM infrastructure. This change will enhance usability, and boost governance participation.
 
-Take a look around Snapshot : 
-
-https://snapshot.box/#/explore
-
-
-AERGO DAO :
-
-https://snapshot.box/#/s:aergodao.eth
-
 
 ## Motivation
 
@@ -37,4 +28,13 @@ To support the growth of Aergo's EVM-based Layer 2 ecosystem, governance must be
 
 ## Voting & Next Steps
 
-This proposal is open for a community vote to determine whether Aergo should proceed with the migration from Agora to Snapshot. If approved, the Aergo team will initiate the technical integration, publish user guides for voting via Snapshot, and coordinate a smooth transition process. Snapshot-based voting will replace Agora for all future Aergo Improvement Proposals (AIPs).
+This proposal is open for a community vote to determine whether Aergo should proceed with the migration from the current Aergo Agora to Snapshot. If approved, the Aergo team will initiate the technical integration, publish user guides for voting via Snapshot, and coordinate a smooth transition process. Snapshot-based voting will replace Agora for all future Aergo Improvement Proposals (AIPs).
+
+Take a look around Snapshot : 
+
+https://snapshot.box/#/explore
+
+
+AERGO DAO :
+
+https://snapshot.box/#/s:aergodao.eth
