@@ -1,3 +1,13 @@
+# This repository is deprecated.
+
+With the AIP-20 proposal passed, we have moved to Snapshot. Please refer to the site below.
+
+AIP-20 Voting Result : https://voting.aergo.io/gov_voting/17fb5e7f58a3bcb0c3b035dd7426a672cb404c3a59cbe503919a273bc341b920
+
+New AERGO DAO :
+https://snapshot.box/#/s:aergodao.eth
+
+
 # What is an AIP?
 
 AIP stands for Aergo Improvement Proposal. All AIPs must be consistent with the goals of Agora ([AIP-0](AIPs/AIP-0.md)). Currently there are three areas where AIP Authors can choose and suggest to make changes.
